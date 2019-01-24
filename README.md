@@ -24,4 +24,4 @@ Commit messages should follow [semantic commit messages](https://seesparkbox.com
 
 ## License
 
-[Creative Commons Attribution Share Alike 4.0 International](LICENSE)
+[Creative Commons Attribution Share Alike 4.0 International](LICENSE.md)
