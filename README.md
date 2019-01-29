@@ -2,7 +2,7 @@
 
 > Learn how investing in software development best practices will make you more productive by playing rather than learning queuing theory!
 
-Queuing theory is the real explanation of why investing in quality up-front will make your team faster. The problem is that it is not the funniest topic to study. After trying the standard training approach at [Murex](www.murex.com), we decided to go for something else, and created this table-top (serious) game.
+[Queuing theory](https://en.wikipedia.org/wiki/Queueing_theory) is the real explanation of why investing in quality up-front will make your team faster. The problem is that it is not the funniest topic to study. After trying the standard training approach at [Murex](www.murex.com), we decided to go for something else, and created this table-top (serious) game.
 
 ## How does it go?
 

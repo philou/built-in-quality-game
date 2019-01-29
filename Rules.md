@@ -107,6 +107,7 @@ To print on A4
 ### 2 6-faced dices
 
 ![Photo of 2 6-faced dices](https://upload.wikimedia.org/wikipedia/commons/6/6a/Dice.jpg)
+
 _Gaz at English Wikipedia [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons_
 
 ### 8 roles cards
@@ -131,3 +132,8 @@ To print on A4
 ### Larger printing
 
 If you want, it might be convenient to print everything at twice the size.
+
+---
+[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+Built-in Quality Game by <a xmlns:cc="http://creativecommons.org/ns#" href="http://philou.github.io/built-in-quality-game/" property="cc:attributionName" rel="cc:attributionURL">Philippe Bourgau</a> is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
