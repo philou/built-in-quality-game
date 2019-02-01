@@ -83,27 +83,27 @@ Every team needs the following:
 
 ### An 8-columns board
 
-![Printable picture of the board](board.jpg)
+![Printable picture of the board](material/board.jpg)
 
 To print on A3
 
 ### A heap of colored work item cards
 
-![A bunch of small colored tickets to represent work items](tickets.jpg)
+![A bunch of small colored tickets to represent work items](photos/tickets.jpg)
 
-Work is represented by small colored tickets. You need to cut out a bunch of these before the game. Cut these to fit in the width of the Kanban columns.
+Work is represented by small colored tickets. You'll need to cut out a bunch of these before the game. Cut these to fit in the width of the Kanban columns.
 
 Use separate red tickets for best practice improvements 
 
 ### 7 Best practice cards
 
-![Printable picture of the best practices](best-practices.jpg)
+![Printable picture of the best practices](material/best-practices.jpg)
 
 To print on A4
 
 ### Dice and best practices reference cards
 
-![Printable picture of the dice and best practices reference cards](ref-cards.jpg)
+![Printable picture of the dice and best practices reference cards](material/ref-cards.jpg)
 
 To print on A4
 
@@ -115,20 +115,20 @@ _Gaz at English Wikipedia [CC BY-SA 3.0](http://creativecommons.org/licenses/by-
 
 ### 8 roles cards
 
-![Printable picture of the first 4 roles](roles-1.jpg)
-![Printable picture of the last 4 roles](roles-2.jpg)
+![Printable picture of the first 4 roles](material/roles-1.jpg)
+![Printable picture of the last 4 roles](material/roles-2.jpg)
 
 To print on A4
 
 ### A tracking sheet
 
-![Printable tracking sheet](tracking-sheet.jpg)
+![Printable tracking sheet](material/tracking-sheet.jpg)
 
 To print on A3
 
 ### Column hiders
 
-![Printable column hiders](column-hiders.jpg)
+![Printable column hiders](material/column-hiders.jpg)
 
 To print on A4
 

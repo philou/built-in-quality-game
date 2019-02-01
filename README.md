@@ -14,7 +14,7 @@ Playing the game is a 4 steps process:
 
 1. Read the [rules](Rules.md)
 2. Read the [animator's guide](AnimationGuide.md)
-3. Print and cut-out the material
+3. Print and cut-out the [material](material)
 4. Play the game
 
 ## Contributing
