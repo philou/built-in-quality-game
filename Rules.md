@@ -1,5 +1,7 @@
 # Rules of the Built-in Quality Game
 
+![A team playing the built-in quality game](photos/1-team.jpeg)
+
 ## Goal of the game
 
 To pull as many features from Funnel to Production as possible.

@@ -2,6 +2,8 @@
 
 This guide is aimed at the animator of the built-in quality game. It contains advices and tips to make your first session a success.
 
+![A training room with many teams playing the built-in quality game at the same time](photos/full-room.jpg)
+
 ## Before the game
 
 Just after you've presented the [rules](Rules.md) of the game, leave a few minutes to people to read their role and to get a grasp at the [rules](Rules.md). This is a good time to walk around and ask people if there is anything they did not understand.
