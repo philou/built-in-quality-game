@@ -14,7 +14,7 @@ Playing the game is a 4 steps process:
 
 1. Read the [rules](Rules.md)
 2. Read the [animator's guide](AnimationGuide.md)
-3. Print and cut-out the [material](material)
+3. Print and cut-out the [material](https://github.com/philou/built-in-quality-game/tree/master/material)
 4. Play the game
 
 ## Contributing
@@ -22,6 +22,8 @@ Playing the game is a 4 steps process:
 PRs accepted.
 
 Commit messages should follow [semantic commit messages](https://seesparkbox.com/foundry/semantic_commit_messages) and these [commit message best practices](https://chris.beams.io/posts/git-commit/)
+
+Material is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Add this to the metadata of the pictures before committing. It's easy to do using `exiftool -tagsFromFile CC_Attribution-ShareAlike_4.0_International.xmp best-practices.jpg`. Build your own xmp file with [Creative Commons License Picker](https://creativecommons.org/choose). 
 
 ## License
 
