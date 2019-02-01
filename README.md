@@ -13,7 +13,7 @@ The game is a collaborative game that lasts for about 1h15. The whole team can p
 Playing the game is a 4 steps process:
 
 1. Read the [rules](Rules.md)
-2. Read the animator's instructions
+2. Read the [animator's guide](AnimationGuide.md)
 3. Print and cut-out the material
 4. Play the game
 

@@ -6,6 +6,9 @@ To pull as many features from Funnel to Production as possible.
 
 Experience the increase in value delivery as we add more built-in quality to our software development process.
 
+The material is built to be as self-explantory as possible. So it should be possible to have people play without reading the full instructions up-front.
+
+
 ## Typical Game Workflow
 
 You are a team of fresh grad starting a new project. You have a lot of ideas, but everything is still to do. During the game, we'll represent building the product as a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board), and work items as small colored pieces of paper.
@@ -43,7 +46,7 @@ Now that everyone understood the game, let's play for real
 3. Let the team randomly pick a 'free' unfair advantage best practice to start with. If they get 'Craftsmanship', no luck, they start with nothing.
 4. As with the blank run, the production player gives the go.
 5. The game goes on as before. The production player should keep track of the delivered features per round (day)
-6. As the team invests in engineering practices, they should see the flow improve
+6. Every 5 minutes or so, you can invest in an engineering practice. As the team invests in engineering practices, they should see the flow improve
 
 ### Retrospective and Learning (10m)
 
