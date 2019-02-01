@@ -23,6 +23,8 @@ PRs accepted.
 
 Commit messages should follow [semantic commit messages](https://seesparkbox.com/foundry/semantic_commit_messages) and these [commit message best practices](https://chris.beams.io/posts/git-commit/)
 
+Material is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Add this to the metadata of the pictures before committing. It's easy to do using `exiftool -tagsFromFile CC_Attribution-ShareAlike_4.0_International.xmp best-practices.jpg`. Build your own xmp file with [Creative Commons License Picker](https://creativecommons.org/choose). 
+
 ## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
