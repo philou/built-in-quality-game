@@ -25,7 +25,17 @@ PRs accepted.
 
 Commit messages should follow [semantic commit messages](https://seesparkbox.com/foundry/semantic_commit_messages) and these [commit message best practices](https://chris.beams.io/posts/git-commit/)
 
-Material is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Add this to the metadata of the pictures before committing. It's easy to do using `exiftool -tagsFromFile CC_Attribution-ShareAlike_4.0_International.xmp best-practices.jpg`. Build your own xmp file with [Creative Commons License Picker](https://creativecommons.org/choose). 
+Material is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/). Add this to the metadata of the pictures before committing. It's easy to do using `exiftool -tagsFromFile CC_Attribution-ShareAlike_4.0_International.xmp best-practices.jpg`. Build your own xmp file with [Creative Commons License Picker](https://creativecommons.org/choose).
+
+## Credits and contributors
+
+Coaches at [Murex](https://github.com/murex), mostly:
+* [Damien Menanteau](https://about.me/damienmenanteau)
+* [Hicham Ghorayeb](https://twitter.com/hghorayeb)
+* [Joseph Soares](https://www.linkedin.com/in/joseph-soares-19812b13/?originalSubdomain=fr)
+* [Julie Jeru](https://fr.linkedin.com/in/juliejeru)
+* [Matthieu Tournemire](https://twitter.com/mattrussa)
+* [Philippe Bourgau](http://philippe.bourgau.net)
 
 ## License
 
