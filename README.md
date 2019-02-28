@@ -1,10 +1,30 @@
 # Built-in Quality Game
 
-> Learn how investing in software development best practices will make you more productive by playing rather than learning queuing theory!
+_Learn how investing in software development best practices will make you more productive by playing rather than learning queuing theory!_
 
 ![Close up of the built-in quality game setup during a play at Murex](photos/close-up.jpg)
 
 [Queuing theory](https://en.wikipedia.org/wiki/Queueing_theory) is the real explanation of why investing in quality up-front will make your team faster. The problem is that it is not the funniest topic to study. After trying the standard training approach at [Murex](www.murex.com), we decided to go for something else, and created this table-top (serious) game.
+
+## 1 Minute Pitch
+
+> Why would we lose time with unit testing when we already have a QA department writing automated tests?
+
+If this is the kind of answers you get from your colleagues, then this game is made for you!
+
+It can be very hard to get people to invest in [built-in quality practices](https://dzone.com/articles/lean-principles-2-build). These practices have an unintuitively greater impact on productivity than downstream quality practices. Instead of torturing your colleagues with a training on the [queuing theory](https://en.wikipedia.org/wiki/Queueing_theory), just play the [Built-in Quality Game](https://philou.github.io/built-in-quality-game/)! Players will experience and feel the built-in-quality speed-up.
+
+Key benefits of the game include:
+
+* Unlike other serious games, this one uses a realistic software team setting
+* It covers the full value stream, from idea to deployment
+* It contains both exploratory (Lean Startup, Walking skeleton) and correctness (BDD, TDD, CI, DevOps, Software Crafting) practices
+* All the rules and material are available to get you started quickly
+* It’s short, a game is only 1h15
+* It’s fun
+
+Try it, learn plenty, have a good time and transform the way you work!
+
 
 ## How does it go?
 
