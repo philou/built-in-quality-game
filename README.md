@@ -42,7 +42,7 @@ Playing the game is a 4 steps process:
 
 ## Contributing
 
-PRs accepted.
+[Pull Requests](https://github.com/philou/built-in-quality-game/pulls) are welcome.
 
 Commit messages should follow [semantic commit messages](https://seesparkbox.com/foundry/semantic_commit_messages) and these [commit message best practices](https://chris.beams.io/posts/git-commit/)
 
