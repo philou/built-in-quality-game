@@ -1,6 +1,6 @@
 # Rules of the Built-in Quality Game
 
-![A team playing the built-in quality game](photos/1-team.jpeg)
+[![A team playing the built-in quality game](photos/1-team-small.jpeg)](photos/1-team.jpeg)
 
 ## Goal of the game
 
@@ -8,7 +8,7 @@ To pull as many features from Funnel to Production as possible.
 
 Experience the increase in value delivery as we add more built-in quality to our software development process.
 
-The material is built to be as self-explantory as possible. So it should be possible to have people play without reading the full instructions up-front.
+The material is built to be as self-explanatory as possible. So it should be possible to have people play without reading the full instructions up-front.
 
 
 ## Typical Game Workflow
@@ -29,7 +29,7 @@ The game is played in rounds (representing days). During a round, each team memb
 4. Team members can have a look at the best practices and their effects on the flow.
 5. If there are aspects of the rules that you did not understand, it's a good time to ask the animator
 
-### Blank run (10m)
+### Blank Run (10m)
 
 Before jumping in the game at full speed, it's a good time to have 15 rounds of play to get the grasp of it.
 
@@ -39,7 +39,7 @@ Before jumping in the game at full speed, it's a good time to have 15 rounds of 
 4. By the 15th round, work can be pushed to production. It's time to practice a blank release
 5. Once all effects of the release have been done. Stop the blank run
 
-### Real game (45m)
+### Real Game (45m)
 
 Now that everyone understood the game, let's play for real
 
@@ -59,11 +59,11 @@ Stop the game 10 minutes before the end of your time slot. Answer the following 
 3. What still puzzles us?
 4. What can we decide for 
 
-If many teams played alongside each other, everyone could share the main takaway they had from the game. 
+If many teams played alongside each other, everyone could share the main takeaway they had from the game. 
 
 ### Real-Time Variant
 
-We tried a real-time variant of the game. On the plus side, its faster and more engaging. On the flip side, there won't be the same kind or amount of learning.
+We tried a real-time variant of the game. On the plus side, it's faster and more engaging. On the flip side, there won't be the same kind or amount of learning.
 
 You can squash this session in 45 minutes instead of 75. In this variant, there are no rounds. All the players play simultaneously, and are continuously pulling items to their columns. The time is tracked in real-time minutes instead of rounds.
 
@@ -91,7 +91,7 @@ To print on A3
 
 ### A heap of colored work item cards
 
-![A bunch of small colored tickets to represent work items](photos/tickets.jpg)
+[![A bunch of small colored tickets to represent work items](photos/tickets-small.jpg)](photos/tickets.jpg)
 
 Work is represented by small colored tickets. You'll need to cut out a bunch of these before the game. Cut these to fit in the width of the Kanban columns.
 

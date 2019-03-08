@@ -2,7 +2,7 @@
 
 This guide is aimed at the animator of the built-in quality game. It contains advices and tips to make your first session a success.
 
-![A training room with many teams playing the built-in quality game at the same time](photos/full-room.jpg)
+[![A training room with many teams playing the built-in quality game at the same time](photos/full-room-small.jpg)](photos/full-room.jpg)
 
 ## Before the game
 
@@ -10,7 +10,7 @@ Just after you've presented the [rules](Rules.md) of the game, leave a few minut
 
 ## Blank run
 
-The blank run is there to help \geveryone get at ease with the game [rules](Rules.md). Again, walk around and check that the game is played correctly.
+The blank run is there to help everyone get at ease with the game [rules](Rules.md). Again, walk around and check that the game is played correctly.
 
 ## During the game
 
@@ -20,7 +20,7 @@ Experience shows that teams usually have a hard time being disciplined enough to
 
 ### How to run the retro
 
-There are many ways to run the retro. The [rules](Rules.md) suggest the typical Do/Learn/Puzzle/Decision. If you are not at ease with this way of doing, try another one you prefer. For example, the [1-2-4-all liberating structures activity](http://www.liberatingstructures.com/1-1-2-4-all/) should work fine as well. Whatever you pick, just be careful to timebox aggressively or it might very well spill out of your session time.  
+There are many ways to run the retro. The [rules](Rules.md) suggest the typical Do/Learn/Puzzle/Decision. If you are not at ease with this way of doing, try another one you prefer. For example, the [1-2-4-all liberating structures activity](http://www.liberatingstructures.com/1-1-2-4-all/) should work fine as well. Whatever you pick, just be careful to time-box aggressively or it might very well spill out of your session time.  
 
 ### Other Key takeaways
 
@@ -41,7 +41,7 @@ People might complain that the exercise is not valid. Here are the most frequent
 > TDD is oversold here!
 
 * Van Schooenderwoert’s team averaged one and a half bugs per month in a very difficult domain. See [Embedded Agile Project by the Numbers With Newbies](http://leanagilepartners.com/library/Vanschooenderwoert-EmbeddedNumbers.pdf)
-* "Over the next 12 months, the new system only had half a dozen bugs. This proved to the managemnt that agile development, especially writing tests first, was a good idea and that it significantly improves quality" (from [Specification by Examples](https://www.amazon.com/Specification-Example-Successful-Deliver-Software/dp/1617290084))
+* "Over the next 12 months, the new system only had half a dozen bugs. This proved to the management that agile development, especially writing tests first, was a good idea and that it significantly improves quality" (from [Specification by Examples](https://www.amazon.com/Specification-Example-Successful-Deliver-Software/dp/1617290084))
 
 > BDD is oversold here!
 
@@ -55,7 +55,7 @@ People might complain that the exercise is not valid. Here are the most frequent
 
 Indeed, technical debt makes reality even worse.
 
-> This is not relevant to us because we don't use kanban! 
+> This is not relevant to us because we don't use Kanban! 
 
 [Work In Progress limits](https://searchsoftwarequality.techtarget.com/definition/WIP-limit) are used as a way to simulate throughput
 

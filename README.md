@@ -2,7 +2,7 @@
 
 _Learn how investing in software development best practices will make you more productive by playing rather than learning [queuing theory](https://en.wikipedia.org/wiki/Queueing_theory)!_
 
-![Close up of the built-in quality game setup during a play at Murex](photos/close-up.jpg)
+[![Close up of the built-in quality game setup during a play at Murex](photos/close-up-small.jpg)](photos/close-up.jpg)
 
 ## 1 Minute Pitch
 
