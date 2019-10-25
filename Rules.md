@@ -40,19 +40,48 @@ This is an agenda we prepared for a 1h30 conference workshop.
 | Play level 4 | Give yet another red (improvement) tickets to participants | 10m | 1h15 |
 | Learning log | Ask participants to write down what they learned during the session, and discuss about it together | 10m | 1h25 |
 
+It relies on the C4 workshop model presented in the book [Training from the back of the room](https://www.goodreads.com/book/show/8141935-training-from-the-back-of-the-room).
+
 ### General presentation
+
+Check [Goal of the Game](#) and [What it looks like](#) sections.
 
 ### Think it then ink it
 
-This is an activity from the book [Training from the back of the room](https://www.goodreads.com/book/show/8141935-training-from-the-back-of-the-room). Here is the call to action:
+This is an activity from the book [Training from the back of the room](https://www.goodreads.com/book/show/8141935-training-from-the-back-of-the-room). Here are the instructions:
 
-
+`Think about what you already know about built-in quality. Write three of these facts on an index card. Be ready to state them when asked.`
 
 ### One person expert jigsaw
 
+Again, this is an activity from the book [Training from the back of the room](https://www.goodreads.com/book/show/8141935-training-from-the-back-of-the-room). The goal is to provide different parts of the information to different people at the table. It's then up to them to summarize what they have understood and make all the parts fit together.
+
+`You each received a different information about built-in quality.`
+
+`Exchange with your colleagues until one of you can summarize the full content to all the table​.`
+
 ### Built-in quality Presentation
 
+> Inspection does not improve the quality, nor guarantee quality. Inspection is too late. The quality, good or bad, is already in the product. Quality cannot be inspected into a product or service; it must be built into it.”
+>
+> —W. Edwards Deming
 
+Here is the key idea behind built-in quality: the earlier in the delivery process an error is made, the more waste it will generate until the feature satisfies the customer.
+
+For example:
+
+* If you build the wrong product, the design, coding, testing... in fact *all* the work on this product will be wasted
+* If a developer leaves a bug in his implementation of a feature, this will limit waste to testing, support and rework
+* At the other side, if an error is left in delivery configuration, then it should be fixed very cheaply 
+
+Built-in quality is a set of practices and principles that enable to avoid errors in the first place, instead of trying to fix them later. Typical built-in quality practices include:
+
+* Test Driven Development
+* Behaviour Driven Development 
+* Continuous Integration
+* Dev-Ops
+* Walking Skeleton
+* Lean Startup
 
 ### Game Setup (10m)
 
