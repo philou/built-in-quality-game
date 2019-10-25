@@ -83,47 +83,77 @@ Built-in quality is a set of practices and principles that enable to avoid error
 * Walking Skeleton
 * Lean Startup
 
-### Game Setup (10m)
+### Game Setup
 
-1. Create a team of up to 8.
-2. Teams discover the material  
-3. Team members pick one or more roles (preferably in adjacent columns), and read their role(s) reference card
-4. Team members can have a look at the best practices and their effects on the flow.
-5. If there are aspects of the rules that you did not understand, it's a good time to ask the animator
+```
+Let's start to play! 
 
-### Blank Run (10m)
+1. Create a team of up to 8. Try to mix profiles (technical, business, test...)
+   to maximize learning
+2. Take 1 minute to discover the material
+3. You'll each be responsible for one or more columns on the kanban board. Each
+   team member should pick one or more roles (preferably in adjacent columns),
+   and read their role(s) reference card. Optionally, the production-role 
+   person can use a laptop and a shared spreadsheet (instead of a sheet of
+   paper) to track the progress throughout the game.
+4. Have a look at the best practices and their effects on the flow.
+5. Have a look at reference cards to get a final grasp of the game.
+6. If there are aspects of the rules that you did not understand, it's a good 
+   time to ask the animator
+```
 
-Before jumping in the game at full speed, it's a good time to have 15 rounds of play to get the grasp of it.
+### Play level 1
+
+```
+Before jumping in the game at full speed, it's a good time to have a few rounds
+of play to get the grasp of it.
 
 1. The production player (the time tracker) gives the go.
-2. At first, all the columns are empty, so the only player who can pull some work in is the 'Funnel' player.
-3. Every round, a new player can start to pull work in a new column
-4. By the 15th round, work can be pushed to production. It's time to practice a blank release
-5. Once all effects of the release have been done. Stop the blank run
+2. At first, all the columns are empty, so the only player who can pull some
+   work in is the 'Funnel' player.
+3. Every round, from right to left, players can pull work in their column if
+   there are tickets in the previous one
+4. By the 15th round, work can be pushed to production. It's time to practice a
+   blank release
+```
 
-### Real Game (45m)
+### Play level 2
 
-Now that everyone understood the game, let's play for real
+```
+Now that everyone masters the game, let's play for real!
 
-1. Remove all the work items from the board
-2. Start with a blank tracking sheet
-3. Let the team randomly pick a 'free' unfair advantage best practice to start with. If they get 'Craftsmanship', no luck, they start with nothing.
-4. As with the blank run, the production player gives the go.
-5. The game goes on as before. The production player should keep track of the delivered features per round (day)
-6. Every 5 minutes or so, you can invest in an engineering practice. As the team invests in engineering practices, they should see the flow improve
+1. Let the team randomly pick a 'free' unfair advantage best practice to start
+   with. If they get 'Craftsmanship', no luck, they start with nothing :-(
+2. Pause for a while and read out loud the reference documentation about this
+   new practice.
+3. Apply the actions of this best practices, and resume the game.
+4. As before, the production player should keep track of the delivered features
+   per turn
+```
 
-### Retrospective and Learning (10m)
+### Play level 3 and 4
 
-Stop the game 10 minutes before the end of your time slot. Answer the following questions.
+```
+Every 10 minutes, the organizers will provide you red (improvement) tickets
+that you can use to master a new skill.
 
-1. What did we do?
-2. What did we learn?
-3. What still puzzles us?
-4. What can we decide for 
+1. Discuss until you come to an agreement of what skill you want to invest in.
+2. When the improvement ticket reaches production, pause and read the best
+   practice reference documentation aloud.
 
-If many teams played alongside each other, everyone could share the main takeaway they had from the game. 
+/!\ Red (improvemnt) tickets:
+* get split as any feature
+* get through production without rolling the dice
+```
 
-### Real-Time Variant
+### Learning log
+
+This is an activity from the book [Training from the back of the room](https://www.goodreads.com/book/show/8141935-training-from-the-back-of-the-room). Here are the instructions:
+
+`In what ways does this information change previous perceptions you’ve held about built-in quality? How do you think you might use this information? Be ready to share with your table.`
+
+
+## Real-Time Variant
 
 We tried a real-time variant of the game. On the plus side, it's faster and more engaging. On the flip side, there won't be the same kind or amount of learning.
 
@@ -175,7 +205,7 @@ To print on A4
 
 ![Photo of 2 6-faced dices](https://upload.wikimedia.org/wikipedia/commons/6/6a/Dice.jpg)
 
-_Gaz at English Wikipedia [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons_
+_By Gaz at English Wikipedia [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons_
 
 ### 8 roles cards
 
