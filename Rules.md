@@ -11,15 +11,48 @@ Experience the increase in value delivery as we add more built-in quality to our
 The material is built to be as self-explanatory as possible. So it should be possible to have people play without reading the full instructions up-front.
 
 
-## Typical Game Workflow
+## What it looks like
 
 You are a team of fresh grad starting a new project. You have a lot of ideas, but everything is still to do. During the game, we'll represent building the product as a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board), and work items as small colored pieces of paper.
 
 At first, as a fresh grads, you'll suffer from your lack of build-in quality practice. As time goes, and as you master industry best practices, you'll see your flow of value improve.
 
-Every team member will take one 1 or more roles and will be responsible to pull work items in his column. If something goes bad when an item reaches production, it will have to be reworked. The more best practices in place, and the smoother the release will become.
+Every team member will take one 1 or more roles and will be responsible to pull work items in his column. If something goes bad when an item reaches production, it will have to be reworked. Regularly, you can chose to work on mastering new practices instead of features. The more best practices in place, and the smoother the release will become.
 
 The game is played in rounds (representing days). During a round, each team member can pull items from the previous column *once*. It's only when all the players have pulled their work items, that we can move to the next round.
+
+The game ends when you feel you have learned enough. Take the opportunity to discuss your insights with other participants.
+
+## Suggested session agenda
+
+This is an agenda we prepared for a 1h30 conference workshop.
+
+|Phase | Details | Duration | Elapsed Time |
+|------|---------|----------|--------------|
+| General presentation | Present the game and its goal | 5m | 5m|
+| Think it then ink it | Let participants recall what they already know about built-in quality | 5m | 10m |
+| One person expert jigsaw | Hand pieces of information about built-in quality to different people, let them reconstruct an image | 10m | 20m|
+| Built-in quality presentation| Quick summary of what built-in quality is | 5m | 25m |
+| Game setup | Show the instructions and let the teams setup their game | 510m | 35m |
+| Play level 1 | The game starts, participants get use to it | 10m | 45m |
+| Play level 2 | Give red (improvement) tickets to participants | 10m | 55m |
+| Play level 3 | Give another red (improvement) tickets to participants | 10m | 1h05 |
+| Play level 4 | Give yet another red (improvement) tickets to participants | 10m | 1h15 |
+| Learning log | Ask participants to write down what they learned during the session, and discuss about it together | 10m | 1h25 |
+
+### General presentation
+
+### Think it then ink it
+
+This is an activity from the book [Training from the back of the room](https://www.goodreads.com/book/show/8141935-training-from-the-back-of-the-room). Here is the call to action:
+
+
+
+### One person expert jigsaw
+
+### Built-in quality Presentation
+
+
 
 ### Game Setup (10m)
 

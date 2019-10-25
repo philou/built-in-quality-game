@@ -51,6 +51,7 @@ Material is licensed under [Creative Commons Attribution-ShareAlike 4.0 Internat
 ## Credits and contributors
 
 Coaches at [Murex](https://github.com/murex), mostly:
+
 * [Damien Menanteau](https://about.me/damienmenanteau)
 * [Hicham Ghorayeb](https://twitter.com/hghorayeb)
 * [Joseph Soares](https://www.linkedin.com/in/joseph-soares-19812b13/?originalSubdomain=fr)
