@@ -8,9 +8,6 @@ To pull as many features from Funnel to Production as possible.
 
 Experience the increase in value delivery as we add more built-in quality to our software development process.
 
-The material is built to be as self-explanatory as possible. So it should be possible to have people play without reading the full instructions up-front.
-
-
 ## What it looks like
 
 You are a team of fresh grad starting a new project. You have a lot of ideas, but everything is still to do. During the game, we'll represent building the product as a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board), and work items as small colored pieces of paper.
@@ -22,6 +19,8 @@ Every team member will take one 1 or more roles and will be responsible to pull 
 The game is played in rounds (representing days). During a round, each team member can pull items from the previous column *once*. It's only when all the players have pulled their work items, that we can move to the next round.
 
 The game ends when you feel you have learned enough. Take the opportunity to discuss your insights with other participants.
+
+The material is built to be as self-explanatory as possible. So it should be possible to have people play without reading the full instructions up-front.
 
 ## Suggested session agenda
 
@@ -42,9 +41,11 @@ This is an agenda we prepared for a 1h30 conference workshop.
 
 It relies on the C4 workshop model presented in the book [Training from the back of the room](https://www.goodreads.com/book/show/8141935-training-from-the-back-of-the-room).
 
+Here are [corresponding slides](material/Built-In%20Quality%20Game.pdf).
+
 ### General presentation
 
-Check [Goal of the Game](#) and [What it looks like](#) sections.
+Check [Goal of the Game](#) section.
 
 ### Think it then ink it
 
@@ -62,7 +63,7 @@ Again, this is an activity from the book [Training from the back of the room](ht
 
 ### Built-in quality Presentation
 
-> Inspection does not improve the quality, nor guarantee quality. Inspection is too late. The quality, good or bad, is already in the product. Quality cannot be inspected into a product or service; it must be built into it.”
+> Inspection does not improve the quality, nor guarantee quality. Inspection is too late. The quality, good or bad, is already in the product. Quality cannot be inspected into a product or service; it must be built into it.
 >
 > —W. Edwards Deming
 
@@ -85,6 +86,8 @@ Built-in quality is a set of practices and principles that enable to avoid error
 
 ### Game Setup
 
+Check the [What it looks like](#) section.
+
 ```
 Let's start to play! 
 
@@ -101,6 +104,9 @@ Let's start to play!
 6. If there are aspects of the rules that you did not understand, it's a good 
    time to ask the animator
 ```
+
+Here is [a google sheet scoreboard](https://docs.google.com/spreadsheets/d/15K90zPhD02unMYQVIwJEs9rjMmrr_ksaoTUjFuXrz4g/edit?usp=sharing)
+ you can copy to track your progress.
 
 ### Play level 1
 
@@ -128,7 +134,7 @@ Now that everyone masters the game, let's play for real!
    new practice.
 3. Apply the actions of this best practices, and resume the game.
 4. As before, the production player should keep track of the delivered features
-   per turn
+   per round
 ```
 
 ### Play level 3 and 4
@@ -137,7 +143,8 @@ Now that everyone masters the game, let's play for real!
 Every 10 minutes, the organizers will provide you red (improvement) tickets
 that you can use to master a new skill.
 
-1. Discuss until you come to an agreement of what skill you want to invest in.
+1. Discuss until you come to an agreement about what skill you want to invest
+   in.
 2. When the improvement ticket reaches production, pause and read the best
    practice reference documentation aloud.
 
