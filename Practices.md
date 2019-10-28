@@ -71,12 +71,35 @@ The 3 benefits of BDD are:
 * Tools targeting a BDD approach generally afford the automatic generation 
   of technical and end user documentation from BDD “specifications”
   
- ### Resources
- 1. [Agile Alliances](https://www.agilealliance.org/glossary/bdd/)
- 2. [Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development) 
+### Resources
+1. [Agile Alliances](https://www.agilealliance.org/glossary/bdd/)
+2. [Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development) 
 
-## Continuous Integration 
+## Continuous Integration (CI) 
+Continuous Integration is a process that helps developers detect problems faster
+through frequent integration of code to a shared repository. The build, 
+regression and acceptance tests are automated and executed at each check-in.
 
+### Practices 
+* Maintain a single source repository
+* Automate the build
+* Make your build self-testing
+* Every commit should build on an integration machine
+* Keep the build fast
+* Test in a clone of the production environment
+* Make it easy for anyone to get the latest executable version
+* Everyone can see what’s happening
+* Automate deployment
+
+### Benefits 
+The 3 benefits of CI are: 
+* Generate deploy-able software at any time and at any place
+* Shortens the feedback loop and reduces operational, technical & human risks
+* Reduces the debugging time 
+
+### Resources 
+[ThoughtWorks](https://www.thoughtworks.com/continuous-integration)
+  
 ## Dev Ops 
 
 ## Craftsmanship 
