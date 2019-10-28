@@ -4,7 +4,7 @@
 
 ## Goal of the game
 
-To pull as many features from Funnel to Production as possible.
+To pull as many features from Idea to Production as possible.
 
 Experience the increase in value delivery as we add more built-in quality to our software development process.
 
@@ -12,11 +12,11 @@ Experience the increase in value delivery as we add more built-in quality to our
 
 You are a team of fresh grad starting a new project. You have a lot of ideas, but everything is still to do. During the game, we'll represent building the product as a [Kanban board](https://en.wikipedia.org/wiki/Kanban_board), and work items as small colored pieces of paper.
 
-At first, as a fresh grads, you'll suffer from your lack of build-in quality practice. As time goes, and as you master industry best practices, you'll see your flow of value improve.
+At first, as a fresh grads, you'll suffer from your lack of build-in quality practice. As time goes, and as you master industry best practices, you'll see your value delivery rate increase.
 
 Every team member will take one 1 or more roles and will be responsible to pull work items in his column. If something goes bad when an item reaches production, it will have to be reworked. Regularly, you can chose to work on mastering new practices instead of features. The more best practices in place, and the smoother the release will become.
 
-The game is played in rounds (representing days). During a round, each team member can pull items from the previous column *once*. It's only when all the players have pulled their work items, that we can move to the next round.
+The game is played in rounds (representing days). During a round, each team member can pull items from the previous column. It's only when all the players have pulled their work items, that we can move to the next round.
 
 The game ends when you feel you have learned enough. Take the opportunity to discuss your insights with other participants.
 
@@ -66,6 +66,7 @@ Again, this is an activity from the book [Training from the back of the room](ht
 > —W. Edwards Deming
 
 Here is the key idea behind built-in quality: the earlier in the delivery process an error is made, the more waste it will generate until the feature satisfies the customer.
+The earlier we fix an error, the better!
 
 For example:
 
@@ -73,7 +74,9 @@ For example:
 * If a developer leaves a bug in his implementation of a feature, this will limit waste to testing, support and rework
 * At the other side, if an error is left in delivery configuration, then it should be fixed very cheaply 
 
-Built-in quality is a set of practices and principles that enable to avoid errors in the first place, instead of trying to fix them later. Typical built-in quality practices include:
+Built-in quality is a set of practices and principles that enable to avoid errors in the first place, instead of trying to fix them later. Can you give examples of practices?
+
+Typical built-in quality practices include:
 
 * Test Driven Development
 * Behaviour Driven Development 
@@ -81,6 +84,8 @@ Built-in quality is a set of practices and principles that enable to avoid error
 * Dev-Ops
 * Walking Skeleton
 * Lean Startup
+
+We want to illustrate this with a game. We'll see how mastering these techniques increases the rate at which we can deliver value.
 
 ### Game Setup
 
@@ -153,6 +158,15 @@ rounds of play to get the grasp of it.
    blank release
 ```
 
+#### Rules Highlights
+
+```
+* Production player: don't forget to keep track of what's going on!
+* It's necessarily a good idea to pile work in queues
+* Run the dice for every work item, not once per delivery or feature
+* If in doubt: check the rules, or ask an animator
+```
+
 ### Play level 1
 
 ```
@@ -174,6 +188,16 @@ Now that everyone masters the game, let's play for real!
    per round
 ```
 
+#### Rules Highlights
+
+```
+* When you hide a column, put existing tickets on top of it and deal with them
+  in the next round 
+* Re-split tickets that were sent back at product-backlog!
+* If you read the end of the tracking sheet, start again from the left 
+* If in doubt: check the rules, or ask an animator
+```
+
 ### Play level 2
 
 ```
@@ -193,6 +217,15 @@ You now have red (improvement) tickets that you can use to master a new skills.
 /!\ Red (improvement) tickets:
 * get split as any feature
 * get through production without rolling the dice
+* If in doubt: check the rules, or ask an animator
+```
+
+#### Rules Highlights
+
+```
+* Red tickets still need to splited 
+* Don't roll the dice for red tickets
+* If you read the end of the tracking sheet, start again from the left 
 ```
 
 ### Learning log
