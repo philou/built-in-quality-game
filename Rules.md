@@ -30,14 +30,12 @@ This is an agenda we prepared for a 1h30 conference workshop.
 |------|---------|----------|--------------|
 | General presentation | Present the game and its goal | 5m | 5m|
 | Think it then ink it | Let participants recall what they already know about built-in quality | 5m | 10m |
-| One person expert jigsaw | Hand pieces of information about built-in quality to different people, let them reconstruct an image | 10m | 20m|
-| Built-in quality presentation| Quick summary of what built-in quality is | 5m | 25m |
-| Game setup | Show the instructions and let the teams setup their game | 510m | 35m |
-| Play level 1 | The game starts, participants get use to it | 10m | 45m |
-| Play level 2 | Give red (improvement) tickets to participants | 10m | 55m |
-| Play level 3 | Give another red (improvement) tickets to participants | 10m | 1h05 |
-| Play level 4 | Give yet another red (improvement) tickets to participants | 10m | 1h15 |
-| Learning log | Ask participants to write down what they learned during the session, and discuss about it together | 10m | 1h25 |
+| Built-in quality presentation| Quick summary of what built-in quality is | 5m | 15m |
+| Game setup | Show the instructions and let the teams setup their game | 5m | 20m |
+| Play level 0 | The game starts, participants get use to it | 20m | 40m |
+| Play level 1 | Participants get a free best practice | 10m | 50m |
+| Play level 2 | Give red (improvement) tickets to participants | 20m | 1h10 |
+| Learning log | Ask participants to write down what they learned during the session, and discuss about it together | 10m | 1h20 |
 
 It relies on the C4 workshop model presented in the book [Training from the back of the room](https://www.goodreads.com/book/show/8141935-training-from-the-back-of-the-room).
 
@@ -53,7 +51,7 @@ This is an activity from the book [Training from the back of the room](https://w
 
 `Think about what you already know about built-in quality. Write three of these facts on an index card. Be ready to state them when asked.`
 
-### One person expert jigsaw
+### (Optional) One person expert jigsaw (10m)
 
 Again, this is an activity from the book [Training from the back of the room](https://www.goodreads.com/book/show/8141935-training-from-the-back-of-the-room). The goal is to provide different parts of the information to different people at the table. It's then up to them to summarize what they have understood and make all the parts fit together.
 
@@ -93,62 +91,106 @@ Let's start to play!
 
 1. Create a team of up to 8. Try to mix profiles (technical, business, test...)
    to maximize learning
-2. Take 1 minute to discover the material
-3. You'll each be responsible for one or more columns on the kanban board. Each
-   team member should pick one or more roles (preferably in adjacent columns),
-   and read their role(s) reference card. Optionally, the production-role 
-   person can use a laptop and a shared spreadsheet (instead of a sheet of
-   paper) to track the progress throughout the game.
-4. Have a look at the best practices and their effects on the flow.
-5. Have a look at reference cards to get a final grasp of the game.
-6. If there are aspects of the rules that you did not understand, it's a good 
-   time to ask the animator
+2. Let's open the 'Level 0' sleeve together
+    - 1st, you have the kanban board, where you'll try to pull items from
+      idea to production.
+    - 2nd, there are color tickets that represent the work item that will
+      move through the kanban board
+    - 3rd, there is a tracking sheet, to track how many complete features you
+      have delivered at every round. Optionally, the production-role person
+      can use a laptop and a shared spreadsheet (instead of a sheet of paper)
+      to track the progress throughout the game.
+    - 4th, you have 8 role cards. You'll each be responsible for one or more
+      columns on the kanban board. Each team member should pick one or more
+      roles (preferably in adjacent columns), and read their role(s)
+      reference card.
+    - 5th, 2 dices and a dice reference card. When you'll try to deliver
+      things to production, you'll roll the dices to see the outcome. If a
+      problems occurs, the item will be go back to a previous column to
+      be reworked.
+    - 6th, there are the full rules of the game. In case there is something
+      that is not clear about the rules, you should find the answer there.
+4. Take a few minutes to get a global grasp of the game.
+5. It should all become clearer as we start to play. You can ask an animator if
+   you are in doubt.
 ```
 
 Here is [a google sheet scoreboard](https://docs.google.com/spreadsheets/d/15K90zPhD02unMYQVIwJEs9rjMmrr_ksaoTUjFuXrz4g/edit?usp=sharing)
  you can copy to track your progress.
 
-### Play level 1
+### Play level 0, 
 
 ```
-Before jumping in the game at full speed, it's a good time to have a few rounds
-of play to get the grasp of it.
+Before jumping in the game at full speed, it's a good time to have a few blank
+rounds of play to get the grasp of it.
 
-1. The production player (the time tracker) gives the go.
-2. At first, all the columns are empty, so the only player who can pull some
-   work in is the 'Funnel' player.
+1. Let's start all together.
+2. Production player, be ready to count rounds and keep track of what's 
+   delivered.
 3. Every round, from right to left, players can pull work in their column if
    there are tickets in the previous one
-4. By the 15th round, work can be pushed to production. It's time to practice a
+4. Let's do the first few rounds together
+    - 1st round: 
+         - The funnel-player pulls an idea into the funnel. Write down an
+           idea ID (#1) on it. 
+         - The production-player tracks: round 1 => 0 features
+    - 2nd round:
+         - the product-backlog-player pulls the #1 ticket from funnel to
+           product-backlog
+         - the funnel-player can pull a new idea into the funnel, with a new
+           ID
+         - The production-player tracks: round 2 => 0 features
+    - 3rd round:
+         - the sprint-backlog-player pulls *and splits* the #1 item from
+           product-backlog to sprint-backlog. Items are always split there.
+         - the product-backlog-player pulls another item from funnel to
+           product-backlog
+         - the funnel-player can pull a new idea into the funnel, with a new
+           ID
+         - The production-player tracks: round 3 => 0 features
+    - 4th round: I'll let you continue
+5. By the 15th round, work can be pushed to production. It's time to practice a
    blank release
 ```
 
-### Play level 2
+### Play level 1
 
 ```
 Now that everyone masters the game, let's play for real!
 
-1. Let the team randomly pick a 'free' unfair advantage best practice to start
-   with. If they get 'Craftsmanship', no luck, they start with nothing :-(
-2. Pause for a while and read out loud the reference documentation about this
-   new practice.
+1. Let's open the 'Level 1' sleeve together
+    - 1st, there are 7 best practice game cards presenting the different
+      practice improvements that are possible in the game.
+    - 2nd, column hiders that you will use to 'skip' columns when improvements
+      tell you to do so.
+    - 3rd, 7 practices reference cards, that you'll read aloud when you master
+      a new improvement.
+1. Pick a random 'free' unfair advantage best practice. If they get
+   'Craftsmanship', no luck, they start with nothing :-(
+2. Pause for a while and read out loud the reference card about this new
+   practice.
 3. Apply the actions of this best practices, and resume the game.
 4. As before, the production player should keep track of the delivered features
    per round
 ```
 
-### Play level 3 and 4
+### Play level 2
 
 ```
-Every 10 minutes, the organizers will provide you red (improvement) tickets
-that you can use to master a new skill.
+You now have red (improvement) tickets that you can use to master a new skills.
 
-1. Discuss until you come to an agreement about what skill you want to invest
+1. Let's open the 'Level 2' sleeve together
+    - 1st, there are red (improvement) tickets that you will use to track your
+      progress about mastering new best practices. 
+    - 2nd, there is the 'How to master new best practices' reference card. It
+      says that you'll need to pass an red ticket from funnel to production to
+      master a new best practice. 
+2. Discuss until you come to an agreement about what skill you want to invest
    in.
-2. When the improvement ticket reaches production, pause and read the best
+3. When the improvement ticket reaches production, pause and read the best
    practice reference documentation aloud.
 
-/!\ Red (improvemnt) tickets:
+/!\ Red (improvement) tickets:
 * get split as any feature
 * get through production without rolling the dice
 ```
