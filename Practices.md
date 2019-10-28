@@ -80,6 +80,11 @@ Continuous Integration is a process that helps developers detect problems faster
 through frequent integration of code to a shared repository. The build, 
 regression and acceptance tests are automated and executed at each check-in.
 
+[![CI](photos/CI.png)](photos/CI.png)
+
+
+(source: http://www.pepgotesting.com/continuous-integration/)
+
 ### Practices 
 * Maintain a single source repository
 * Automate the build
