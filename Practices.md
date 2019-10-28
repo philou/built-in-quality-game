@@ -1,5 +1,9 @@
 # Built-in Quality Practices
 
+## Lean Startup 
+
+## Walking Skeleton 
+
 ## Test-Driven Development (TDD) 
 
 TDD is based on three rules, knows as 'The Three Laws of TDD': 
@@ -10,7 +14,9 @@ TDD is based on three rules, knows as 'The Three Laws of TDD':
   failing test pass.
   
 In code, TDD is translated into the cycle Red/Green/Refactor!
+
 [![TDD_Cycle](photos/red_green_refactor.jpg)](photos/red_green_refactor.jpg)
+
 (source: https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
 
 The rules of this cycle are as follows: 
@@ -69,5 +75,9 @@ The 3 benefits of BDD are:
  1. [Agile Alliances](https://www.agilealliance.org/glossary/bdd/)
  2. [Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development) 
 
+## Continuous Integration 
 
+## Dev Ops 
+
+## Craftsmanship 
 
