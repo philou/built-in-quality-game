@@ -40,6 +40,24 @@ The top benefits of Lean Startup are:
 
 
 ## Walking Skeleton 
+When building a 'Walking Skeleton', developers are expected to implement small
+end-to-end functions through an incremental and minimum implementations. Through
+this, the architecture and functionalities are expected to evolve in parallel with 
+the implementation. Thus, developers do not have to focus on the final architecture, 
+rather, they need to know how to link the architecture of different components 
+together. 
+
+### Benefits
+Some benefits of the 'Walking Skeleton' are: 
+* Validate Assumptions
+* Reality Check
+* Reduces Risk
+* Quicker Feedback 
+
+
+### Resources 
+1. [BUILDING A WALKING SKELETON](https://www.capriconsulting.co.uk/2018/03/28/building-a-walking-skeleton/) 
+
 
 ## Test-Driven Development (TDD) 
 
