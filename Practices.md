@@ -39,13 +39,29 @@ The top benefits of Lean Startup are:
 2. [David vs. Goliath: Your Startup’s Guide to Giant-Killing](https://openviewpartners.com/blog/lean-startup-advantages-david-vs-goliath)
 
 
-## Walking Skeleton 
-When building a 'Walking Skeleton', developers are expected to implement small
-end-to-end functions through an incremental and minimum implementations. Through
-this, the architecture and functionalities are expected to evolve in parallel with 
-the implementation. Thus, developers do not have to focus on the final architecture, 
-rather, they need to know how to link the architecture of different components 
-together. 
+## Walking Skeleton
+Alistair Cockburn defines the 'Walking Skeleton' as a tiny implementation of the 
+system that performs a small end-to-end function. It need not use the final 
+architecture, but it should link together the main architectural components. The
+architecture and the functionality can then evolve in parallel. 
+
+This approach helps developers identify all the big unknowns of a software and 
+thus reducing the risks on large software development projects!
+
+### Practices
+
+#### High Risk First
+It is better to work on the riskiest parts of the project first since you don't
+know how long it will take and what problems should arise. This helps shortening
+the feedback cycle. 
+
+#### No Shortcuts 
+The first acceptance test should be written only when the walking skeleton is 
+deployed to production. Ideally, you want to detect any potential problems with
+your deployment and build scripts as soon as possible. This helps you validate
+the architecture and get feedback as early as possible.
+
+By performing shortcuts, there will be a risk that such feedback is lost!        
 
 ### Benefits
 Some benefits of the 'Walking Skeleton' are: 
@@ -56,7 +72,8 @@ Some benefits of the 'Walking Skeleton' are:
 
 
 ### Resources 
-1. [BUILDING A WALKING SKELETON](https://www.capriconsulting.co.uk/2018/03/28/building-a-walking-skeleton/) 
+1. [BUILDING A WALKING SKELETON](https://www.capriconsulting.co.uk/2018/03/28/building-a-walking-skeleton/)
+2. [Start Your Project with a Walking Skeleton](https://www.henricodolfing.com/2018/04/start-your-project-with-walking-skeleton.html) 
 
 
 ## Test-Driven Development (TDD) 
