@@ -31,8 +31,8 @@ The top 3 advantages of TDD are:
 * Reduces the debugging time  
 
 ### Resources 
-1. [CleanCoder](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
-2. [Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+1. [The Cycles of TDD - CleanCoder](https://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html)
+2. [Test-driven development - Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
 
 ## Behavior-Driven Development (BDD)
 
@@ -72,8 +72,8 @@ The 3 benefits of BDD are:
   of technical and end user documentation from BDD “specifications”
   
 ### Resources
-1. [Agile Alliances](https://www.agilealliance.org/glossary/bdd/)
-2. [Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development) 
+1. [Behavior Driven Development (BDD) - Agile Alliances](https://www.agilealliance.org/glossary/bdd/)
+2. [Behavior-driven development - Wikipedia](https://en.wikipedia.org/wiki/Behavior-driven_development) 
 
 ## Continuous Integration (CI) 
 Continuous Integration is a process that helps developers detect problems faster
@@ -81,7 +81,6 @@ through frequent integration of code to a shared repository. The build,
 regression and acceptance tests are automated and executed at each check-in.
 
 [![CI](photos/CI.png)](photos/CI.png)
-
 
 (source: http://www.pepgotesting.com/continuous-integration/)
 
@@ -103,9 +102,40 @@ The 3 benefits of CI are:
 * Reduces the debugging time 
 
 ### Resources 
-[ThoughtWorks](https://www.thoughtworks.com/continuous-integration)
+[CONTINUOUS INTEGRATION - ThoughtWorks](https://www.thoughtworks.com/continuous-integration)
   
 ## Dev Ops 
 
 ## Craftsmanship 
+Software craftsmanship is an approach to software development that emphasizes the
+coding skills of the software developers. It is a response by software developers
+to the perceived ills of the mainstream software industry, including the 
+prioritization of financial concerns over developer accountability.
 
+Software craftsmanship came as a continuation for the Agile Framework. Agile 
+focuses more individuals, how teams should collaborate, and how should the work
+be paced. But, it does not cover quality of the code or the design. Software 
+craftsmanship was defined to cover those missing principles, as it ensures that
+a software should be both functional and well designed.
+
+### Manifesto 
+As aspiring Software Craftsmen we are raising the bar of professional software 
+development by practicing it and helping others learn the craft. Through this 
+work we have come to value:
+* Not only working software, but also well-crafted software
+* Not only responding to change, but also steadily adding value 
+* Not only individuals and interactions, but also a community of professionals
+* Not only customer collaboration, but also productive partnerships
+
+### Serving Agility 
+Software Craftsmanship borrows practices from other agile methods: 
+• Quality: simple design, DDD, OO, refactoring, TDD (XP)
+• Humility: questioning and continuous improvement (retrospectives)
+• Sharing: pair programming and collective ownership (XP)
+• Pragmatism: I understand the constraints and I adapt (Scrum)
+• Professionalism: I treat my client as a partner (XP)
+
+### Resources 
+[Software craftsmanship - Wikipedia](https://en.wikipedia.org/wiki/Software_craftsmanship)
+[Manifesto for Software Craftsmanship](http://manifesto.softwarecraftsmanship.org/)
+[How Software Craftsmanship Completes Agile Methods](https://blog.comet.co/engineering/how-software-craftsmanship-completes-agile-methods/)
