@@ -1,6 +1,43 @@
 # Built-in Quality Practices
 
 ## Lean Startup 
+Lean startup is a methodology for developing businesses and products that aims
+to shorten product development cycles and rapidly discover if a proposed business
+model is viable; this is achieved by adopting a combination of 
+business-hypothesis-driven experimentation, iterative product releases, and 
+validated learning.
+
+Central to the lean startup methodology is the assumption that when startup
+companies invest their time into iteratively building products or services to 
+meet the needs of early customers, the company can reduce market risks and 
+sidestep the need for large amounts of initial project funding and expensive 
+product launches and failures.
+
+[![Lean Startup](photos/LeanStartup.jpg)](photos/LeanStartup.jpg)
+
+(source: http://theleanstartup.com/principles)
+
+### Principles 
+* Minimum Viable Product (MVP)
+* Continuous Deployment (CD)
+* Split Testing 
+* Actionable Metrics
+* Pivot 
+* Innovation Accounting 
+* Build-Measure-Learn 
+
+### Benefits
+The top benefits of Lean Startup are: 
+* Closer to Customers 
+* Easier to pivot and react to market opportunities
+* Enables going after smaller markets and opportunities 
+* Encourages quick and effective innovation  
+* Very low sales and marketing costs 
+
+### Resources 
+1. [Lean Startup - Wikipedia](https://en.wikipedia.org/wiki/Lean_startup)
+2. [David vs. Goliath: Your Startup’s Guide to Giant-Killing](https://openviewpartners.com/blog/lean-startup-advantages-david-vs-goliath)
+
 
 ## Walking Skeleton 
 
