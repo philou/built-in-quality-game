@@ -105,6 +105,31 @@ The 3 benefits of CI are:
 [CONTINUOUS INTEGRATION - ThoughtWorks](https://www.thoughtworks.com/continuous-integration)
   
 ## Dev Ops 
+DevOps is a set of practices that combines software development (Dev) and 
+information-technology operations (Ops) which aims to shorten the systems 
+development life cycle and provide continuous delivery with high software quality.
+
+[![CI](photos/DevOps.png)](photos/DevOps.png)
+
+(source: https://guide.freecodecamp.org/devops/)
+
+### Practices
+* Coding: Code Development and Review, Source Code Management tools, Code Merging 
+* Building: Continuous Integration Tools, Build Status
+* Testing: Continuous Testing Tools
+* Packaging: Artifact Repository, Application Pre-Deployment Staging
+* Releasing: Change Management, Release Approvals, Release Automation
+* Configuring: Infrastructure Configuration and Management, Infrastructure as Code Tools
+* Monitoring: Applications Performance Monitoring, End-User Experience
+
+### Benefits
+The 3 benefits of DevOps are: 
+* Faster releases and time to market
+* Lower failure rate and downtime 
+* Shortened lead time between fixes
+
+### Resources 
+[DevOps - Wiki](https://en.wikipedia.org/wiki/DevOps)
 
 ## Craftsmanship 
 Software craftsmanship is an approach to software development that emphasizes the
