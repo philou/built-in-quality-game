@@ -31,8 +31,8 @@ This is an agenda we prepared for a 1h30 conference workshop.
 | General presentation | Present the game and its goal | 5m | 5m|
 | Think it then ink it | Let participants recall what they already know about built-in quality | 5m | 10m |
 | Built-in quality presentation| Quick summary of what built-in quality is | 5m | 15m |
-| Game setup | Show the instructions and let the teams setup their game | 5m | 20m |
-| Play level 0 | The game starts, participants get use to it | 20m | 40m |
+| Game setup | Show the instructions and let the teams setup their game | 10m | 25m |
+| Play level 0 | The game starts, participants get use to it | 15m | 40m |
 | Play level 1 | Participants get a free best practice | 10m | 50m |
 | Play level 2 | Give red (improvement) tickets to participants | 20m | 1h10 |
 | Learning log | Ask participants to write down what they learned during the session, and discuss about it together | 10m | 1h20 |
@@ -158,11 +158,11 @@ rounds of play to get the grasp of it.
    blank release
 ```
 
-#### Rules Highlights
+#### Reminders and Notes
 
 ```
 * Production player: don't forget to keep track of what's going on!
-* It's necessarily a good idea to pile work in queues
+* It's not a good idea to pile work in queues
 * Run the dice for every work item, not once per delivery or feature
 * If in doubt: check the rules, or ask an animator
 ```
@@ -177,24 +177,24 @@ Now that everyone masters the game, let's play for real!
       practice improvements that are possible in the game.
     - 2nd, column hiders that you will use to 'skip' columns when improvements
       tell you to do so.
-    - 3rd, 7 practices reference cards, that you'll read aloud when you master
+    - 3rd, a practice reference sheet, that you'll read aloud when you master
       a new improvement.
-1. Pick a random 'free' unfair advantage best practice. If they get
+2. Pick a random 'free' unfair advantage best practice. If they get
    'Craftsmanship', no luck, they start with nothing :-(
-2. Pause for a while and read out loud the reference card about this new
+3. Pause for a while and read out loud the reference sheet section about this new
    practice.
-3. Apply the actions of this best practices, and resume the game.
-4. As before, the production player should keep track of the delivered features
+4. Apply the actions of this best practices, and resume the game.
+5. As before, the production player should keep track of the delivered features
    per round
 ```
 
-#### Rules Highlights
+#### Reminders and Notes
 
 ```
 * When you hide a column, put existing tickets on top of it and deal with them
   in the next round 
 * Re-split tickets that were sent back at product-backlog!
-* If you read the end of the tracking sheet, start again from the left 
+* If you reach the end of the tracking sheet, start again from the left 
 * If in doubt: check the rules, or ask an animator
 ```
 
@@ -211,21 +211,22 @@ You now have red (improvement) tickets that you can use to master a new skills.
       master a new best practice. 
 2. Discuss until you come to an agreement about what skill you want to invest
    in.
-3. When the improvement ticket reaches production, pause and read the best
-   practice reference documentation aloud.
+3. When the improvement ticket reaches production, pause and read the
+   reference sheet section aloud.
 
 /!\ Red (improvement) tickets:
 * get split as any feature
 * get through production without rolling the dice
-* If in doubt: check the rules, or ask an animator
 ```
 
-#### Rules Highlights
+#### Reminders and Notes
 
 ```
-* Red tickets still need to splited 
+* Red tickets still need to split
 * Don't roll the dice for red tickets
-* If you read the end of the tracking sheet, start again from the left 
+* Pause and read the reference sheet section aloud
+* If you reach the end of the tracking sheet, start again from the left 
+* If in doubt: check the rules, or ask an animator
 ```
 
 ### Learning log
