@@ -37,6 +37,7 @@ Playing the game is a 4 steps process:
 
 1. Read the [rules](Rules.md)
 2. Read the [animator's guide](AnimationGuide.md)
+3. Read the [Practice reference sheet](Practices.md)
 3. Print and cut-out the [material](https://github.com/philou/built-in-quality-game/tree/master/material)
 4. Play the game
 
@@ -52,6 +53,7 @@ Material is licensed under [Creative Commons Attribution-ShareAlike 4.0 Internat
 
 Coaches at [Murex](https://github.com/murex), mostly:
 
+* [Ahmad Atwi](https://ahmadatwi.me/)
 * [Damien Menanteau](https://about.me/damienmenanteau)
 * [Hicham Ghorayeb](https://twitter.com/hghorayeb)
 * [Joseph Soares](https://www.linkedin.com/in/joseph-soares-19812b13/?originalSubdomain=fr)

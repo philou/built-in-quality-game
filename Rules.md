@@ -188,6 +188,8 @@ Now that everyone masters the game, let's play for real!
    per round
 ```
 
+Here is the [reference sheet](Practices.md).
+
 #### Reminders and Notes
 
 ```
