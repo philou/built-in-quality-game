@@ -167,6 +167,20 @@ rounds of play to get the grasp of it.
 * If in doubt: check the rules, or ask an animator
 ```
 
+#### A few words on Queues
+
+> Do we put tickets in the queue if some tickets are in the previous column and if the current column is already full?
+
+In the queue.
+
+> Can we choose if we want to drag tickets from the queue or from the previous column, or it's priority to the queue's column?
+
+You can do both, as you would in real life. It represents the prioritization overhead that happens in real life with rework or bottlenecks.
+
+> Why "it's not a good idea to pile work in queues"?
+
+It piles up work, yet does not deliver faster. Instead of keeping people busy creating half-finished inventory, it would be better to help finish what has been started, on optimize the process to create flow.
+
 ### Play level 1
 
 ```
