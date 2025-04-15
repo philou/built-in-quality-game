@@ -1,8 +1,8 @@
-# Jeu de Qualité Intégrée
+# Built-In Quality Game
 
 _Apprenez comment investir dans les bonnes pratiques de développement logiciel peut vous rendre plus productif en jouant plutôt qu'en apprenant la [théorie des files d'attente](https://en.wikipedia.org/wiki/Queueing_theory)!_
 
-[![Gros plan de la configuration du jeu de qualité intégrée lors d'une partie chez Murex](photos/close-up-small.jpg)](photos/close-up.jpg)
+[![Gros plan de la configuration du Built-In Quality Game lors d'une partie chez Murex](photos/close-up-small.jpg)](photos/close-up.jpg)
 
 ## Présentation en 1 minute
 
