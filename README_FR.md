@@ -53,13 +53,17 @@ Le matériel est sous licence [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 Les coachs de [Murex](https://github.com/murex), principalement :
 
-- [Ahmad Atwi](https://ahmadatwi.me/)
-- [Damien Menanteau](https://about.me/damienmenanteau)
-- [Hicham Ghorayeb](https://twitter.com/hghorayeb)
-- [Joseph Soares](https://www.linkedin.com/in/joseph-soares-19812b13/?originalSubdomain=fr)
-- [Julie Jeru](https://fr.linkedin.com/in/juliejeru)
-- [Matthieu Tournemire](https://twitter.com/mattrussa)
-- [Philippe Bourgau](http://philippe.bourgau.net)
+* [Ahmad Atwi](https://ahmadatwi.me/)
+* [Damien Menanteau](https://about.me/damienmenanteau)
+* [Hicham Ghorayeb](https://twitter.com/hghorayeb)
+* [Joseph Soares](https://www.linkedin.com/in/joseph-soares-19812b13/?originalSubdomain=fr)
+* [Julie Jeru](https://fr.linkedin.com/in/juliejeru)
+* [Matthieu Tournemire](https://twitter.com/mattrussa)
+* [Philippe Bourgau](http://philippe.bourgau.net)
+
+Traduction FR:
+* [Alexandre Aubert](https://www.linkedin.com/in/alexandreaubertqa)
+
 
 ## Licence
 

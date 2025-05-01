@@ -61,6 +61,9 @@ Coaches at [Murex](https://github.com/murex), mostly:
 * [Matthieu Tournemire](https://twitter.com/mattrussa)
 * [Philippe Bourgau](http://philippe.bourgau.net)
 
+FR translation:
+* [Alexandre Aubert](https://www.linkedin.com/in/alexandreaubertqa)
+
 ## License
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
