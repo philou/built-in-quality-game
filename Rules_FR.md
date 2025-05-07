@@ -249,7 +249,7 @@ Chaque équipe a besoin des éléments suivants :
 
 ### Un tas de cartes de travail colorées
 
-[![Un tas de petits tickets colorés pour représenter les éléments de travail](photos/tickets-small.jpeg)](photos/tickets.jpeg)
+[![Un tas de petits tickets colorés pour représenter les éléments de travail](photos/tickets-small.jpg)](photos/tickets.jpg)
 
 Le travail est représenté par de petits tickets colorés. Vous devrez découper un tas de ces tickets avant le jeu. Découpez-les pour qu'ils rentrent dans la largeur des colonnes du Kanban.
 
